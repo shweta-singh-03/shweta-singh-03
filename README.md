@@ -71,7 +71,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shweta-singh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shweta-singh-03&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shweta-singh&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
