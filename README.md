@@ -1,71 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shweta Singh</h1>
+<h3 align="center">Data Analytics Engineer → Data Engineer · dbt · Snowflake · Kafka · Airflow</h3>
 
-
-**shweta-singh-03/shweta-singh-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<div align="center">
-
-# Shweta Singh
-
-**Data Analytics Engineer → Data Engineer**
-
-*Transforming data into reliable, scalable systems*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-singh-78a597207)
-[![Profile Views](https://komarev.com/ghpvc/?username=shweta-singh&style=for-the-badge&color=0e75b6)](https://github.com/shweta-singh)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shweta-singh&label=Profile%20views&color=0e75b6&style=flat" alt="shweta-singh" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shweta-singh-78a597207" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Currently Transitioning → Data Engineering
+## 🚀 About Me
 
-> I'm a **Data Analytics Engineer at Philips** actively making the shift into **Data Engineering** — moving from building analytics to building the infrastructure that powers it. Right now I'm expanding my hands-on skills through real projects around modern data stack tools and distributed systems.
-
----
-
-## 🔨 Building Projects With
-
-<div align="center">
-
-| Tool | What I'm Learning |
-|------|------------------|
-| <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/> | Real-time data streaming & event-driven pipelines |
-| <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/> | Pipeline orchestration & workflow scheduling |
-| <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/> | Cloud data warehousing & data sharing |
-| <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/> | Data transformation & modelling at scale |
-| <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> | Distributed data processing |
-
-</div>
+- 🏢 **Data Analytics Engineer @ Philips** — Working at the intersection of data modelling, transformation & analytics to power business decisions
+- 🔁 **Actively transitioning into Data Engineering** — Building hands-on projects around **Kafka, Airflow, Snowflake**, and modern data architectures
+- 🛠️ Expanding my expertise from **analytics engineering** to designing **end-to-end data pipelines & platforms**
+- 🏗️ Passionate about **streaming systems**, **pipeline orchestration**, and **scalable data infrastructure**
+- 📍 Based in **India**
 
 ---
 
-## 🛠 Core Tech Stack
+## 🧠 What I'm Building Towards
 
-<div align="center">
+| Domain | Focus |
+|---|---|
+| ⚙️ Data Engineering | End-to-end pipelines, Medallion Architecture, ELT |
+| 🌊 Streaming | Real-time data with Apache Kafka |
+| 🗓️ Orchestration | Workflow scheduling with Apache Airflow |
+| ❄️ Cloud Warehousing | Snowflake data modelling & optimization |
+| 🔄 Transformation | dbt for scalable, tested data models |
 
-**Languages**
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🛠️ Tech Stack
 
-**Cloud Platforms**
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql" />
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### 🛢️ Data Engineering & Transformation
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="50"/>
+</p>
 
-**Data Tools**
-
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-</div>
+### ❄️ Cloud & Data Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="50"/>
+</p>
 
 ---
 
@@ -73,26 +62,35 @@ Here are some ideas to get you started:
 
 ```
 ✅  Analytics Engineering @ Philips   →   dbt · SQL · Data Modelling
-🔄  Now Building                      →   Kafka · Airflow · Snowflake
-🎯  Target Role                       →   Data Engineer (Pipelines · Platforms · Architecture)
+🔄  Now Building                      →   Kafka · Airflow · Snowflake · Modern Data Architecture
+🎯  Target Role                       →   Data Engineer · Pipelines · Platforms · Streaming Systems
 ```
 
 ---
 
-## 📌 About Me
+## 📊 GitHub Stats
 
-- 🏢 **Data Analytics Engineer** at **Philips**
-- 🔁 Actively pivoting into **Data Engineering**
-- 🏗️ Hands-on with **modern data architectures** — streaming, batch, and lakehouse patterns
-- 📍 Based in **India**
-- 💬 Let's talk data pipelines, the modern data stack, or DE career transitions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shweta-singh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shweta-singh&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shweta-singh&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
 
-*"Good data infrastructure is invisible — it just works."*
+<p align="left">
+  <a href="https://www.linkedin.com/in/shweta-singh-78a597207" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+</p>
 
-**Open to Data Engineering opportunities & collaborations 🤝**
+---
 
-</div>
+<p align="center">
+  <i>"Good data infrastructure is invisible — it just works."</i>
+</p>
