@@ -40,7 +40,7 @@ Azure Data Lake • Azure Ecosystem
 <p>
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="Kafka" />
   <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="Airflow" />
-  ![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-Learning-blue?style=for-the-badge)
+  <img src="https://cdn.simpleicons.org/apacheairflow" height="40" />
 </p>
 
 Kafka • Airflow • Iceberg • Lakehouse Architecture
