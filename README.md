@@ -58,4 +58,4 @@ Kafka • Airflow • Iceberg • Lakehouse Architecture
 
 ### 📫 Connect
 
-[LinkedIn](www.linkedin.com/in/shweta-singh-78a597207) • [GitHub](https://github.com/shweta-singh-03)
+[LinkedIn](https://www.linkedin.com/in/shweta-singh-78a597207/) • [GitHub](https://github.com/shweta-singh-03)
