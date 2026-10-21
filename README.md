@@ -1,7 +1,7 @@
 Hi 👋, I'm Shweta Singh
 =======================
 
-**Data Engineer · Azure Databricks · PySpark**
+**Data Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-singh-78a597207/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shweta-singh-03)
