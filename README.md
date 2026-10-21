@@ -1,61 +1,78 @@
-# Hi, I'm Shweta Singh 👋
+Hi 👋, I'm Shweta Singh
+=======================
 
-Data Engineer passionate about building scalable data pipelines and turning raw data into meaningful insights.
+**Data Engineer · Azure Databricks · PySpark**
 
-🔹 Working with SQL, PySpark, and Azure Data Lake  
-🔹 Solving SQL and Python coding challenges regularly  
-🔹 Exploring modern Data Engineering tools and architectures  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-singh-78a597207/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shweta-singh-03)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:shweta.singh0306@outlook.com)
 
----
+## 🚀 About Me
 
-### 🛠️ Tech Stack
+- 🏢 Data Engineer building scalable ETL/ELT pipelines on **Azure Databricks**
+- ⚡ Migrated a legacy reporting solution to Databricks, cutting report time from **9 hrs to 1 hr**
+- 📦 Processing millions of records with Apache Spark 
+- 📜 Certified in **Microsoft DP-750** · Azure Databricks Data Engineer Associate
+- 🌱 Currently learning Apache Iceberg, hudi, Kafka streaming and building projects around my tech stack.
 
-#### Languages & Querying
+## 🧠 What I Work On
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+| Domain | Focus |
+|---|---|
+| 🛢️ **Data Engineering** | ETL/ELT pipelines, data ingestion, transformation, orchestration |
+| ⚡ **Big Data Processing** | PySpark, Apache Spark, Hive, Hadoop |
+| 🏛️ **Lakehouse & Warehousing** | Delta Lake, Unity Catalog, data modelling, data warehousing |
+| ☁️ **Cloud Platforms** | Azure Databricks, ADLS Gen2, Azure Data Factory |
 
-SQL • Python
+## 🛠️ Tech Stack
 
-#### Data Engineering
+**👨‍💻 Languages**
 
-<p>
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="Spark" />
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="40" alt="Databricks" />
-</p>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-PySpark • Spark • ETL • Data Modeling
+**☁️ Cloud & Data Platforms**
 
-#### Cloud
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![ADLS](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=azure" />
-</p>
+**🛢️ Data Engineering**
 
-Azure Data Lake • Azure Ecosystem
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=delta&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Lakehouse](https://img.shields.io/badge/Lakehouse-0B3D91?style=flat-square)
+![Data Modelling](https://img.shields.io/badge/Data_Modelling-6C3483?style=flat-square)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-117A65?style=flat-square)
 
-#### Currently Learning
+**⚡ Big Data & Streaming**
 
-<p>
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="Kafka" />
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="Airflow" />
-  <img src="http://upload.wikimedia.org/wikipedia/commons/9/95/Apache_Iceberg_Logo.svg" height="40" />
-</p>
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-Kafka • Airflow • Iceberg • Lakehouse Architecture
+**🧰 Databases & Tools**
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### 📚 Current Focus
+## 🏆 Certifications
 
-- Advanced SQL
-- PySpark Optimization
-- Data Warehousing
-- Distributed Data Processing
-- Real-Time Data Pipelines
+- 📜 Microsoft DP-750: Azure Databricks Data Engineer Associate
 
+## 📊 GitHub Stats
 
-### 📫 Connect
+![Stats](https://github-readme-stats.vercel.app/api?username=shweta-singh-03&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shweta-singh-03&layout=compact&theme=default&hide_border=true)
 
-[LinkedIn](https://www.linkedin.com/in/shweta-singh-78a597207/) • [GitHub](https://github.com/shweta-singh-03)
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-singh-78a597207/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shweta-singh-03)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:shweta.singh0306@outlook.com)
